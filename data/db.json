@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "My First Post",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "Made a video about Tesla Q1 results"
+    },
+    {
+      "id": "2",
+      "title": "My Second Post",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "I attended a DeFi blockchain event"
+    },
+    {
+      "id": "3",
+      "title": "My Third Post",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "Web3 global summit next week"
+    },
+    {
+      "id": "4",
+      "title": "My Fourth Post",
+      "datetime": "March 29, 2026 8:43:18 PM",
+      "body": "My name is methos"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
